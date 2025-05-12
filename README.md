@@ -1,5 +1,5 @@
 # CourseTerraformVitaly
-Curso de Terraform Udemy dado durante las Prácticas de Vitaly
+Curso de Terraform Udemy dado durante las Prácticas en Vitaly
 
 **Info:**
 
