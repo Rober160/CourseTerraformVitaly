@@ -22,6 +22,12 @@
         <mxCell id="xlGTIfL8POSe84YTTwHK-1" value="Public Instance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="pQam6Vbc1D1z9ffz8Ab7-4">
           <mxGeometry x="75" y="188" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xlGTIfL8POSe84YTTwHK-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.route_table;fillColor=#F58536;gradientColor=none;" vertex="1" parent="pQam6Vbc1D1z9ffz8Ab7-4">
+          <mxGeometry x="10" y="270" width="39" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xlGTIfL8POSe84YTTwHK-3" value="Public Route Table" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="pQam6Vbc1D1z9ffz8Ab7-4">
+          <mxGeometry y="310" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
