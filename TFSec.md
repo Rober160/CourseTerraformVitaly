@@ -15,5 +15,5 @@ Fue desarrollada originalmente por **liamg/tfsec**
 
 Luego adquirida y mantenida por **Aqua Security** (empresa conocida por herramientas de seguridad cloud como Trivy)
 
-📌 Estado actual: Open source y muy activo en GitHub
+📌 Estado actual: Open source y muy activo en GitHub.
 Repositorio: https://github.com/aquasecurity/tfsec
