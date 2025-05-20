@@ -38,6 +38,8 @@ Terraform es compatible con múltiples **proveedores de infraestructura**, como:
 
 Se puede usar para **entornos locales**, nubes públicas o privadas, y plataformas híbridas.
 
+_En este curso se utilizará el entorno de AWS para crear la infraestructura mediante Terraform._
+
 ---
 
 ### 🚀 ¿Para qué sirve Terraform?
